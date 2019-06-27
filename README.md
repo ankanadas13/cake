@@ -1,2 +1,2 @@
 # cake
-cake repo
+cake repo for git command demonstration
